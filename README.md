@@ -1,0 +1,1 @@
+Simple app that uses React to track your expenses for each month.
